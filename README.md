@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Continuous-Delivery?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Continuous-Delivery?style=flat-square" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Continuous-Delivery?style=flat-square" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -50,70 +50,70 @@ Market fragmentation is **moderately fragmented**: major cloud providers (Micros
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for declarative GitOps, pipeline automation, and progressive delivery, ordered by GitHub star counts (descending):
+Curated open-source projects for declarative GitOps, pipeline automation, and progressive delivery, ordered by GitHub Stars_Counts (descending):
 
 - **[Helm](https://github.com/helm/helm)**  
-  [![GitHub stars](https://img.shields.io/github/stars/helm/helm?style=social&color=white)](https://github.com/helm/helm/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/helm/helm?style=social&color=white)](https://github.com/helm/helm/stargazers)  
   The package manager for Kubernetes—enables reproducible deployment templates, release management, and chart versioning across environments.
 
 - **[Argo CD](https://github.com/argoproj/argo-cd)**  
-  [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers)  
   Leading CNCF declarative GitOps continuous delivery tool for Kubernetes—syncs state from Git and provides a powerful Web UI.
 
 - **[Dagger](https://github.com/dagger/dagger)**  
-  [![GitHub stars](https://img.shields.io/github/stars/dagger/dagger?style=social&color=white)](https://github.com/dagger/dagger/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/dagger/dagger?style=social&color=white)](https://github.com/dagger/dagger/stargazers)  
   Programmable CI/CD engine that runs pipelines in containers, allowing delivery workflows to be written in standard programming languages.
 
 - **[Kustomize](https://github.com/kubernetes-sigs/kustomize)**  
-  [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/kustomize?style=social&color=white)](https://github.com/kubernetes-sigs/kustomize/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/kubernetes-sigs/kustomize?style=social&color=white)](https://github.com/kubernetes-sigs/kustomize/stargazers)  
   Template-free customization of Kubernetes YAML configurations enabling declarative, environment-specific CD overlays.
 
 - **[Spinnaker](https://github.com/spinnaker/spinnaker)**  
-  [![GitHub stars](https://img.shields.io/github/stars/spinnaker/spinnaker?style=social&color=white)](https://github.com/spinnaker/spinnaker/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/spinnaker/spinnaker?style=social&color=white)](https://github.com/spinnaker/spinnaker/stargazers)  
   Multi-cloud continuous delivery platform developed by Netflix and Google for high-velocity enterprise software releases.
 
 - **[Tekton Pipelines](https://github.com/tektoncd/pipeline)**  
-  [![GitHub stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers)  
   CNCF cloud-native pipeline framework for building custom CI/CD systems on top of Kubernetes CRDs.
 
 - **[Flux v2](https://github.com/fluxcd/flux2)**  
-  [![GitHub stars](https://img.shields.io/github/stars/fluxcd/flux2?style=social&color=white)](https://github.com/fluxcd/flux2/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/fluxcd/flux2?style=social&color=white)](https://github.com/fluxcd/flux2/stargazers)  
   Open and extensible GitOps toolkit for Kubernetes, supporting automated image updates and multi-tenant delivery.
 
 - **[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker)**  
-  [![GitHub stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social&color=white)](https://github.com/woodpecker-ci/woodpecker/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?style=social&color=white)](https://github.com/woodpecker-ci/woodpecker/stargazers)  
   Simple yet powerful community-driven container-based CI/CD engine designed as a lightweight open-source alternative.
 
 - **[GoCD](https://github.com/gocd/gocd)**  
-  [![GitHub stars](https://img.shields.io/github/stars/gocd/gocd?style=social&color=white)](https://github.com/gocd/gocd/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/gocd/gocd?style=social&color=white)](https://github.com/gocd/gocd/stargazers)  
   Open-source continuous delivery server focused on modeling, automating, and visualizing complex deployment pipelines.
 
 - **[Flagger](https://github.com/fluxcd/flagger)**  
-  [![GitHub stars](https://img.shields.io/github/stars/fluxcd/flagger?style=social&color=white)](https://github.com/fluxcd/flagger/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/fluxcd/flagger?style=social&color=white)](https://github.com/fluxcd/flagger/stargazers)  
   Progressive delivery operator that automates canary releases, A/B testing, and blue/green rollouts using service mesh telemetry.
 
 - **[DevSpace](https://github.com/devspace-sh/devspace)**  
-  [![GitHub stars](https://img.shields.io/github/stars/devspace-sh/devspace?style=social&color=white)](https://github.com/devspace-sh/devspace/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/devspace-sh/devspace?style=social&color=white)](https://github.com/devspace-sh/devspace/stargazers)  
   Client-only developer tool for Kubernetes that automates building, testing, and deploying cloud-native applications.
 
 - **[Werf](https://github.com/werf/werf)**  
-  [![GitHub stars](https://img.shields.io/github/stars/werf/werf?style=social&color=white)](https://github.com/werf/werf/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/werf/werf?style=social&color=white)](https://github.com/werf/werf/stargazers)  
   GitOps CLI tool that glues Git, Docker/Buildah, Helm, and Kubernetes together for continuous delivery pipelines.
 
 - **[Jenkins X](https://github.com/jenkins-x/jx)**  
-  [![GitHub stars](https://img.shields.io/github/stars/jenkins-x/jx?style=social&color=white)](https://github.com/jenkins-x/jx/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/jenkins-x/jx?style=social&color=white)](https://github.com/jenkins-x/jx/stargazers)  
   Automated CI+CD for Kubernetes with automated preview environments and GitOps management.
 
 - **[Argo Rollouts](https://github.com/argoproj/argo-rollouts)**  
-  [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-rollouts?style=social&color=white)](https://github.com/argoproj/argo-rollouts/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-rollouts?style=social&color=white)](https://github.com/argoproj/argo-rollouts/stargazers)  
   Kubernetes Controller providing advanced deployment capabilities such as Canary, Blue-Green, and Automated Metric Analysis.
 
 - **[Keptn](https://github.com/keptn/keptn)**  
-  [![GitHub stars](https://img.shields.io/github/stars/keptn/keptn?style=social&color=white)](https://github.com/keptn/keptn/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/keptn/keptn?style=social&color=white)](https://github.com/keptn/keptn/stargazers)  
   Event-driven control plane for cloud-native application lifecycle orchestration and automated quality gates.
 
 - **[PipeCD](https://github.com/pipe-cd/pipecd)**  
-  [![GitHub stars](https://img.shields.io/github/stars/pipe-cd/pipecd?style=social&color=white)](https://github.com/pipe-cd/pipecd/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/pipe-cd/pipecd?style=social&color=white)](https://github.com/pipe-cd/pipecd/stargazers)  
   Unified GitOps CD platform for declarative Kubernetes, serverless (Lambda/Cloud Run), and infrastructure deployments.
 
 ---
